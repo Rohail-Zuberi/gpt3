@@ -1,4 +1,5 @@
 import React from "react";
+import './App.css';
 
 import { Footer, Blog, Possibility, WhatGPT3, Header, Features } from './containers';
 import { CTA, Brand, Navbar } from './components'
